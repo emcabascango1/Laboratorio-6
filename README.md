@@ -107,6 +107,7 @@ Teorema de la Máxima Transferencia de Potencia.
 
 ![R (2)](https://user-images.githubusercontent.com/84431598/128048241-1895910d-860c-44e1-a67b-ece6f3e5fc4e.png)
 
+*Figura 21: Medición de la potencia en el resistor RL = 4700Ω*
 
 #### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.
 
